@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#ff5252</color>
+    <color name="teal">#00F260</color>
+    <color name="white">#FFFAFAFA</color>
+    <color name="blue">#41ACFF</color>
+    <color name="black_text_color">#424242</color>
+    <color name="pure_white">#FFF</color>
+
+    <!--android:endColor="#00F260"-->
+    <!--android:startColor="#0575E6"-->
+</resources>

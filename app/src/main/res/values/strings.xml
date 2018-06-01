@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HouseRentalApp</string>
+    <string name="address_sample">014 Durgan Centre Suite 680</string>
+    <string name="hello_text">Hello there, How can I \nhelp you?</string>
+</resources>
